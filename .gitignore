@@ -1,3 +1,4 @@
 # Proxy configuration with credentials
 _proxy_config.py
 __pycache__*
+*.pdf
