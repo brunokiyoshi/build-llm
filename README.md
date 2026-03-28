@@ -1,3 +1,3 @@
 This is a study repo where I'm following along the book "Build a Large Language Model From Scratch".
 
-I don't use AI in my study repos.
+Since this is a study repo, I don't use any AI assistance for coding or writing. I am using, however, some AI's to scrutinize the content and give me hints on what I should study again or at least rephrase. You can see some of these reviews in the ai_reviews folder but they are not kept with a lot of care. I'm thinking of how to streamline this write-review process better.
